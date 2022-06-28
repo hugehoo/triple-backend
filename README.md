@@ -108,3 +108,8 @@ GET http://localhost:8080/event/{UUID}
 - [X] : Content Empty 면 예외 발생 
 
 
+### 요구사항 정리 메모
+![image](https://user-images.githubusercontent.com/92839864/176185805-c8a29ea3-3f2a-4924-83ff-635ffbf170a1.png)
+![image](https://user-images.githubusercontent.com/92839864/176185897-ba0f676f-7f1f-4f45-8138-dfb4fe31adb7.png)
+
+
